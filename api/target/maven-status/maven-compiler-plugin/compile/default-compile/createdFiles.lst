@@ -1,0 +1,4 @@
+api\model\Response.class
+api\RestApplication.class
+api\service\Service.class
+api\HelloWorldRest.class
